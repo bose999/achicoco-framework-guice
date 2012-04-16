@@ -20,12 +20,12 @@ import jp.techie.achicoco.framework.conf.ApplicationConfing;
 import com.google.inject.AbstractModule;
 
 /**
- * AchicocoSettingのabstract class
- * このクラスを継承して
- * jp.techie.achicoco.AchicocoSetting
+ * AchicocoSettingのabstract class<br />
+ * このクラスを継承して<br />
+ * jp.techie.achicoco.AchicocoSetting<br />
  * クラスを作成して設定を記述する
  * 
- * @author matakeda
+ * @author bose999
  *
  */
 public abstract class AbstractApplicationConfingImpl extends AbstractModule implements ApplicationConfing{
